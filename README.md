@@ -1,4 +1,4 @@
 # retail-abc-analysis
 Retail assortment performance analysis using multi-metric ABC segmentation
 
-Компания в сфере ритейла столкнулась с необходимостью оценки эффективности ассортимента. Для анализа был применён комплексный ABC-анализ по трем ключевым метрикам: количество продаж, выручка и валовая прибыль за март 2026 года.
+A retail company faced the need to evaluate the effectiveness of its product assortment. For this purpose, a comprehensive ABC analysis was conducted based on three key metrics: sales volume, revenue, and gross profit for March 2026.
